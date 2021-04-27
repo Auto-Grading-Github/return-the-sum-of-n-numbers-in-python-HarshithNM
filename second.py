@@ -4,4 +4,4 @@ def sum(x):
   while(x>0):
     s=s+x
     x=x-1
-  return s
+  return x
